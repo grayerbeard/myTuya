@@ -1,2 +1,2 @@
-# myTuya
-Python for R Pi to raed from and control Tuya devices using tinyTuya
+# shedHeat
+control of Whitchurch Shed heating and monitoring of power used
