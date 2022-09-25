@@ -42,11 +42,11 @@ result = c.getstatus(id)
 print("Status of T & H Sensor:\n", result)
 print("\n""\n")
 
-print("@@@@@@@@@@@@@@@@@")
+print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 for sub in result:
 	print(sub)
 print(result['result'][0]['value'])
-print("@@@@@@@@@@@@@@@@@")      
+print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")      
     
 id = "bf5723e4b65de4a64fteqz" # Code for switch
 
